@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @waheed006
 - 👀 I love to develop android Applications
 - 🌱 I’m currently learning cross platfrom uinsg flutter & dart
-- 💞️ I’m looking to collaborate on ...
 - 📫 Contact me: waheedsj0001@gmail.com
 
 <!---
