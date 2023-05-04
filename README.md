@@ -1,4 +1,4 @@
-👀 Hey, I'm Abdul Waheed, Full-stack android developer having  4+ years of experience.
+👀 Hey, I'm Abdul Waheed, senior android developer having  4+ years of experience.
 
 I've strong grip on following areas of android development:
 1. 📫 Kotlin/Java.
